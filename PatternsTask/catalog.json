@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Rambo",
+    "priceCode": {
+      "type": "Regular"
+    },
+    "countryOfOrigin": "USA",
+    "briefDescription": "Some information",
+    "director": [
+      "Sylvester Stallone"
+    ],
+    "genre": [
+      "militant"
+    ],
+    "actors": [
+      "Sylvester Stallone",
+      "Richard Crenna",
+      "Brian Dennehy",
+      "Bill Cuckoo",
+      "Jack Starrett"
+    ]
+  },
+  {
+    "title": "Lord of the Rings",
+    "priceCode": {
+      "type": "NewRelease"
+    },
+    "countryOfOrigin": "USA",
+    "briefDescription": "Some information",
+    "director": [
+      "Piter Jekson"
+    ],
+    "genre": [
+      "Fantasy"
+    ],
+    "actors": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Liv Tyler"
+    ]
+  },
+  {
+    "title": "Harry Potter",
+    "priceCode": {
+      "type": "Children"
+    },
+    "countryOfOrigin": "British-American",
+    "briefDescription": "Some information",
+    "director": [
+      "David Heyman"
+    ],
+    "genre": [
+      "Fantasy"
+    ],
+    "actors": [
+      "Daniel Radcliffe",
+      "Emma Watson",
+      "Rupert Grint"
+    ]
+  },
+  {
+    "title": "Spider-Man",
+    "priceCode": {
+      "type": "NewRelease"
+    },
+    "countryOfOrigin": "USA",
+    "briefDescription": "The fictional character Spider-Man, a comic book superhero created by Stan Lee and Steve Ditko and featured in Marvel Comics publications, has appeared as a main character in numerous theatrical and made-for-television films.",
+    "director": [
+      "Sam Raymi"
+    ],
+    "genre": [
+      "Fantasy"
+    ],
+    "actors": [
+      "Tobey Maguire as Peter Parker / Spider-Man",
+      " Willem Dafoe as Norman Osborn / Green Goblin",
+      " Kirsten Dunst as Mary Jane Watson",
+      " James Franco as Harry Osborn",
+      " Rosemary Harris as May Parker",
+      " J.K. Simmons as J. Jonah Jameson"
+    ]
+  },
+  {
+    "title": "the three musketeers",
+    "priceCode": {
+      "type": "NewRelease"
+    },
+    "countryOfOrigin": "France",
+    "briefDescription": "D\u0027Artagnan is forced to join forces with Milady to save Constance, who was kidnapped before his eyes. But as war is declared and Athos, Porthos and Aramis have already joined the front, a secret from the past shatters old alliances.",
+    "director": [
+      "Martin Bourboulon"
+    ],
+    "genre": [
+      "History"
+    ],
+    "actors": [
+      "Eva Green",
+      " Vincent Cassel",
+      " Vicky Krieps"
+    ]
+  }
+]

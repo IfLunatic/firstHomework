@@ -1,0 +1,8 @@
+patterns\main\Main.class
+patterns\task\Customer.class
+patterns\task\MovieType.class
+patterns\task\Movie.class
+patterns\task\Children.class
+patterns\task\NewRelease.class
+patterns\task\Regular.class
+patterns\task\Rental.class

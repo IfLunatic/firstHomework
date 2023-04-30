@@ -1,0 +1,153 @@
+{
+  "Dima": {
+    "name": "Dima",
+    "rentals": [],
+    "userFavoriteMovies": [
+      {
+        "title": "Rambo",
+        "priceCode": {
+          "type": "Regular"
+        },
+        "countryOfOrigin": "USA",
+        "briefDescription": "Some information",
+        "director": [
+          "Sylvester Stallone"
+        ],
+        "genre": [
+          "militant"
+        ],
+        "actors": [
+          "Sylvester Stallone",
+          "Richard Crenna",
+          "Brian Dennehy",
+          "Bill Cuckoo",
+          "Jack Starrett"
+        ]
+      },
+      {
+        "title": "the three musketeers",
+        "priceCode": {
+          "type": "NewRelease"
+        },
+        "countryOfOrigin": "France",
+        "briefDescription": "D\u0027Artagnan is forced to join forces with Milady to save Constance, who was kidnapped before his eyes. But as war is declared and Athos, Porthos and Aramis have already joined the front, a secret from the past shatters old alliances.",
+        "director": [
+          "Martin Bourboulon"
+        ],
+        "genre": [
+          "History"
+        ],
+        "actors": [
+          "Eva Green",
+          " Vincent Cassel",
+          " Vicky Krieps"
+        ]
+      },
+      {
+        "title": "Rambo",
+        "priceCode": {
+          "type": "Regular"
+        },
+        "countryOfOrigin": "USA",
+        "briefDescription": "Some information",
+        "director": [
+          "Sylvester Stallone"
+        ],
+        "genre": [
+          "militant"
+        ],
+        "actors": [
+          "Sylvester Stallone",
+          "Richard Crenna",
+          "Brian Dennehy",
+          "Bill Cuckoo",
+          "Jack Starrett"
+        ]
+      },
+      {
+        "title": "Rambo",
+        "priceCode": {
+          "type": "Regular"
+        },
+        "countryOfOrigin": "USA",
+        "briefDescription": "Some information",
+        "director": [
+          "Sylvester Stallone"
+        ],
+        "genre": [
+          "militant"
+        ],
+        "actors": [
+          "Sylvester Stallone",
+          "Richard Crenna",
+          "Brian Dennehy",
+          "Bill Cuckoo",
+          "Jack Starrett"
+        ]
+      },
+      {
+        "title": "Rambo",
+        "priceCode": {
+          "type": "Regular"
+        },
+        "countryOfOrigin": "USA",
+        "briefDescription": "Some information",
+        "director": [
+          "Sylvester Stallone"
+        ],
+        "genre": [
+          "militant"
+        ],
+        "actors": [
+          "Sylvester Stallone",
+          "Richard Crenna",
+          "Brian Dennehy",
+          "Bill Cuckoo",
+          "Jack Starrett"
+        ]
+      },
+      {
+        "title": "Rambo",
+        "priceCode": {
+          "type": "Regular"
+        },
+        "countryOfOrigin": "USA",
+        "briefDescription": "Some information",
+        "director": [
+          "Sylvester Stallone"
+        ],
+        "genre": [
+          "militant"
+        ],
+        "actors": [
+          "Sylvester Stallone",
+          "Richard Crenna",
+          "Brian Dennehy",
+          "Bill Cuckoo",
+          "Jack Starrett"
+        ]
+      },
+      {
+        "title": "Harry Potter",
+        "priceCode": {
+          "type": "Children"
+        },
+        "countryOfOrigin": "British-American",
+        "briefDescription": "Some information",
+        "director": [
+          "David Heyman"
+        ],
+        "genre": [
+          "Fantasy"
+        ],
+        "actors": [
+          "Daniel Radcliffe",
+          "Emma Watson",
+          "Rupert Grint"
+        ]
+      }
+    ],
+    "owed": 22.5,
+    "bonusPoints": 21.0
+  }
+}
